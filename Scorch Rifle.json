@@ -1,0 +1,131 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Secondary Black Pieces",
+          "replace_ids": [
+            76498680461166
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/rando/Downloads/scorch black.obj"
+        },
+        {
+          "name": "Main White Plating",
+          "replace_ids": [
+            107629380251948
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/rando/Downloads/scorch white.obj"
+        },
+        {
+          "name": "Blue Glowing Piece",
+          "replace_ids": [
+            121773130321415
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:/Users/rando/Downloads/scorch blue.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            79471670126710
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://drive.google.com/uc?export=download&id=1rpdr-0g9g8TbvBhLjAIObHKXaQwXb7Cy"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            120386834342865
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Scorch-Pistols/raw/refs/heads/main/ultinanum%20sound.mp3"
+        },
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            13456860578
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Scorch-Pistols/raw/refs/heads/main/equipsound"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animation",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            77364542705513
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 129703477750430
+        },
+        {
+          "name": "Idle Replace",
+          "replace_ids": [
+            138266300610910
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 78629444220313
+        },
+        {
+          "name": "Sprint Replace",
+          "replace_ids": [
+            104175020865838
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 119864280778566
+        },
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            106792693952041
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 92859922128654
+        },
+        {
+          "name": "Inspect Replace",
+          "replace_ids": [
+            79031054510997
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 93713277592934
+        }
+      ]
+    }
+  ]
+}
