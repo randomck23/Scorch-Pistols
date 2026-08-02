@@ -10,27 +10,27 @@
           "replace_ids": [
             76498680461166
           ],
-          "mode": "local",
+          "mode": "cdn",
           "enabled": true,
-          "local_path": "C:/Users/rando/Downloads/scorch black.obj"
+          "cdn_url": "https://github.com/randomck23/Scorch-Pistols/raw/refs/heads/main/scorch%20black.obj"
         },
         {
           "name": "Main White Plating",
           "replace_ids": [
             107629380251948
           ],
-          "mode": "local",
+          "mode": "cdn",
           "enabled": true,
-          "local_path": "C:/Users/rando/Downloads/scorch white.obj"
+          "cdn_url": "https://github.com/randomck23/Scorch-Pistols/raw/refs/heads/main/scorch%20white.obj"
         },
         {
           "name": "Blue Glowing Piece",
           "replace_ids": [
             121773130321415
           ],
-          "mode": "local",
+          "mode": "cdn",
           "enabled": true,
-          "local_path": "C:/Users/rando/Downloads/scorch blue.obj"
+          "cdn_url": "https://github.com/randomck23/Scorch-Pistols/raw/refs/heads/main/scorch%20blue.obj"
         }
       ]
     },
